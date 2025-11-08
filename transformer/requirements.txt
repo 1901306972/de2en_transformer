@@ -1,9 +1,0 @@
-datasets==2.19.2
-matplotlib==3.10.7
-numpy==1.26.4
-PyYAML==6.0.3
-spacy==3.8.7
-torch==2.3.1+cu121
-torchmetrics==1.8.2
-torchtext==0.18.0
-tqdm==4.67.1
