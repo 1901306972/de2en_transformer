@@ -57,8 +57,8 @@
 
 ```bash
 # 1. 克隆本仓库
-git clone https://github.com/wengang/[您的仓库名].git
-cd [您的仓库名]
+git clone https://github.com/1901306972/de2en_transformer.git
+cd de2en_transformer
 
 # 2. 创建并激活 Conda 环境
 conda create -n transformer python=3.10 -y
