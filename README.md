@@ -74,7 +74,7 @@ python -m spacy download en_core_web_sm
 ```
 
 ### 3.2. 数据准备
-本项目使用的 IWSLT2017 (DE-EN) 数据集将由 src/data.py 脚本在首次运行时自动从 datasets 库下载并缓存到本地的 data/ 目录中。您无需手动下载。
+本项目使用的 IWSLT2017 (DE-EN) 数据集，在该目录中放了验证集和测试集，完整的数据集可以去Hugging Face自行下载。
 
 ### 3.3. 训练
 我们所有的实验都通过 train.py 脚本启动，并通过 --config 参数指定配置文件。要复现报告中的最终基线模型，请使用 configs/simple.yaml 在完整数据集上进行训练。
