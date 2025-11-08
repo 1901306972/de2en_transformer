@@ -102,7 +102,7 @@ python inference.py
 ## 4. 实验环境与预期结果
 硬件环境:
 
-GPU: NVIDIA GeForce RTX 3090 (24GB 显存)
+GPU: NVIDIA RTX A4000 (16GB 显存)
 CPU: Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz
 内存 (RAM): 251 GB
 预期运行时间:
